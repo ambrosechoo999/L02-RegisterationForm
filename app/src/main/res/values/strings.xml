@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L02-RegisterationForm</string>
+    <string name="name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="id">Student ID</string>
+    <string name="school">School</string>
+    <string name="mail">E-mail</string>
+    <string name="phone">Phone</string>
+
+
+</resources>
